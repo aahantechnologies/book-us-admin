@@ -1,0 +1,145 @@
+[25-Oct-2018 13:03:15 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:03:15 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:03:15 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:05:07 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:05:07 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:05:07 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:06:09 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:06:09 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:06:09 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:09:17 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:09:17 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:09:17 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:10:20 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:10:20 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:10:20 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:10:20 Etc/GMT] PHP Notice:  Undefined variable: con in /home/raadh5xq/public_html/BookUs/admin/index.php on line 660
+[25-Oct-2018 13:10:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/raadh5xq/public_html/BookUs/admin/index.php on line 660
+[25-Oct-2018 13:10:20 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:10:20 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:10:20 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:11:05 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:11:05 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:11:05 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:11:22 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:11:22 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:11:22 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:11:22 Etc/GMT] PHP Notice:  Undefined variable: con in /home/raadh5xq/public_html/BookUs/admin/index.php on line 660
+[25-Oct-2018 13:11:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/raadh5xq/public_html/BookUs/admin/index.php on line 660
+[25-Oct-2018 13:11:23 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:11:23 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[25-Oct-2018 13:11:23 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/raadh5xq/public_html/BookUs/admin/index.php on line 3
+[23-Nov-2018 11:48:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HealthService.php on line 69
+[23-Nov-2018 11:48:30 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/SaloonService.php on line 80
+[23-Nov-2018 11:49:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/SaloonService.php on line 80
+[23-Nov-2018 11:49:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/SaloonService.php on line 80
+[23-Nov-2018 11:50:01 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/TaxiService.php on line 75
+[23-Nov-2018 11:50:05 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/SaloonService.php on line 80
+[23-Nov-2018 11:53:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HealthService.php on line 69
+[24-Nov-2018 05:20:06 Etc/GMT] PHP Notice:  Undefined index: regid in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HealthService.php on line 88
+[24-Nov-2018 05:20:06 Etc/GMT] PHP Notice:  Undefined variable: regid in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HealthService.php on line 89
+[24-Nov-2018 05:20:10 Etc/GMT] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/action.php on line 8
+[24-Nov-2018 05:21:51 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HealthService.php on line 89
+[24-Nov-2018 05:21:54 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HealthService.php on line 96
+[24-Nov-2018 05:21:58 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HealthService.php on line 89
+[24-Nov-2018 05:25:21 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HouseMaidBooking.php on line 100
+[24-Nov-2018 05:25:34 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HouseMaidBooking.php on line 100
+[24-Nov-2018 05:25:38 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HouseMaidBooking.php on line 107
+[24-Nov-2018 05:25:42 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HouseMaidBooking.php on line 107
+[24-Nov-2018 05:25:47 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HouseMaidBooking.php on line 100
+[24-Nov-2018 05:28:12 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/ApplianceService.php on line 99
+[24-Nov-2018 05:28:16 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/ApplianceService.php on line 106
+[24-Nov-2018 05:28:19 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/ApplianceService.php on line 99
+[24-Nov-2018 05:30:32 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/SaloonService.php on line 100
+[24-Nov-2018 05:30:34 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/SaloonService.php on line 107
+[24-Nov-2018 05:30:38 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/SaloonService.php on line 100
+[24-Nov-2018 05:32:31 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/TaxiService.php on line 94
+[24-Nov-2018 05:32:33 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/TaxiService.php on line 101
+[24-Nov-2018 05:32:37 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/TaxiService.php on line 94
+[24-Nov-2018 07:15:34 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HouseMaidBooking.php on line 100
+[24-Nov-2018 07:15:48 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/ApplianceService.php on line 99
+[24-Nov-2018 07:15:53 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HealthService.php on line 89
+[24-Nov-2018 07:15:53 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/HealthService.php on line 89
+[24-Nov-2018 07:15:57 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/TaxiService.php on line 94
+[24-Nov-2018 07:17:26 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/ApplianceService.php on line 99
+[24-Nov-2018 07:34:33 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:34:33 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:34:33 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:34:33 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:34:33 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:34:33 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:35:45 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:35:45 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:35:45 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:35:45 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:35:45 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:35:45 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:22 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:22 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:22 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:22 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:22 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:22 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:28 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:28 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:28 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:28 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:28 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:36:28 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:38:06 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:38:06 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:38:06 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:38:06 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:38:06 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:38:06 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:35 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:35 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:35 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:35 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:35 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:35 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:50:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:51:49 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:51:49 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:51:49 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:51:49 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:51:49 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:51:49 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:01 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:01 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:01 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:01 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:01 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:01 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:04 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 107
+[24-Nov-2018 07:53:04 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:04 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:04 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:04 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[24-Nov-2018 07:53:04 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:51:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 107
+[13-Nov-2019 17:51:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:51:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:51:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:51:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:51:56 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:52:19 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 107
+[13-Nov-2019 17:52:19 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:52:19 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:52:19 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:52:19 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:52:19 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:53:32 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 107
+[13-Nov-2019 17:53:32 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:53:32 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:53:32 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:53:32 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[13-Nov-2019 17:53:32 Etc/GMT] PHP Notice:  Undefined variable: id in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/Booking.php on line 100
+[29-Jan-2021 11:01:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'raadh5xq'@'md-in-84.webhostbox.net' (using password: YES) in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/connection.php on line 2
+[16-Mar-2021 05:57:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'raadh5xq'@'md-in-84.webhostbox.net' (using password: YES) in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/connection.php on line 2
+[29-Apr-2021 05:06:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'raadh5xq'@'md-in-84.webhostbox.net' (using password: YES) in /home/raadh5xq/public_html/aahantechnologies.com/BookUs/admin/connection.php on line 2
